@@ -1,4 +1,4 @@
- Bug Tracker Application 
+ Bug Tracker Application
  =========================
 
  Description 
