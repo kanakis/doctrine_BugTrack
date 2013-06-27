@@ -1,5 +1,8 @@
+ Bug Tracker Application 
+ =========================
+
  Description 
- -------------------
+ --------------------
  This is a simple Doctrine CLI bug tracker system (bare bones) that can be 
  accessed either by the CLI or through AJAX calls to the specific php pages 
  	
